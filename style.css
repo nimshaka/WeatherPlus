@@ -1,0 +1,41 @@
+body {
+    background-color: #1f2940;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.weather-container {
+    background-color: #39496f;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.weather-container img {
+    width: 20%;
+    border-radius: 10px;
+}
+.day-card {
+    background-color: #2e3b58;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.day-card h5 {
+    margin-bottom: 10px;
+}
+.navbar-brand{
+  font-size: x-large;
+}
+table{
+ margin: auto;
+ 
+}
+table th{
+    width: 25%;
+}
+
+
+#img1{
+    width: 20%;
+    border-radius: 10px;
+}
